@@ -1,0 +1,175 @@
+text,intent
+Quels sont les lieux à visiter à Rabat ?,find_place
+Montre-moi des monuments intéressants,find_place
+Je cherche des endroits touristiques,find_place
+Quels sites historiques puis-je voir ?,find_place
+Des idées de lieux à visiter aujourd'hui ?,find_place
+Peux-tu me recommander une kasbah ?,find_place
+Quels musées sont ouverts ?,find_place
+Je veux découvrir la médina,find_place
+Y a-t-il des monuments près d'ici ?,find_place
+Suggère-moi un endroit sympa à visiter,find_place
+Quels sont les incontournables de la ville ?,find_place
+Je voudrais visiter un site culturel,find_place
+Peux-tu me montrer des lieux naturels ?,find_place
+Quels parcs puis-je visiter ?,find_place
+Où se trouve la tour Hassan ?,find_place
+Je cherche un endroit calme pour me promener,find_place
+Montre-moi les plus beaux monuments,find_place
+Quels sont les lieux populaires près de moi ?,find_place
+Je veux voir des attractions touristiques,find_place
+Peux-tu me proposer une visite culturelle ?,find_place
+What places should I visit in Rabat?,find_place
+Show me some tourist attractions,find_place
+Any interesting monuments nearby?,find_place
+I want to see historical sites,find_place
+Can you recommend a museum?,find_place
+Where can I find the Kasbah?,find_place
+What are the must-see landmarks here?,find_place
+Suggest a nice place to visit,find_place
+What are the top sights in town?,find_place
+I'd like to visit a cultural site,find_place
+Can you show me some natural spots?,find_place
+Which parks can I visit?,find_place
+Where is the Hassan Tower?,find_place
+I'm looking for a quiet place to walk,find_place
+Show me the most beautiful monuments,find_place
+What are the popular places near me?,find_place
+I want to see tourist attractions,find_place
+Can you suggest a cultural tour?,find_place
+Où puis-je manger ce soir ?,find_restaurant
+Je cherche un bon restaurant,find_restaurant
+Des idées de restaurants pas chers ?,find_restaurant
+Quel est le meilleur endroit pour manger du poisson ?,find_restaurant
+Je veux manger marocain,find_restaurant
+Peux-tu me suggérer un café sympa ?,find_restaurant
+Où trouver un restaurant pas loin ?,find_restaurant
+Recommande-moi un bon resto,find_restaurant
+"J'ai faim, où puis-je aller ?",find_restaurant
+Un bar avec une belle vue ?,find_restaurant
+Quel restaurant propose des tajines ?,find_restaurant
+Je cherche un endroit pour prendre un café,find_restaurant
+Où puis-je dîner en famille ?,find_restaurant
+Connais-tu un bon restaurant italien ?,find_restaurant
+Je veux un endroit pour le petit-déjeuner,find_restaurant
+Où boire un verre le soir ?,find_restaurant
+Quel restaurant a les meilleurs avis ?,find_restaurant
+Je cherche un fast-food pas cher,find_restaurant
+Peux-tu me trouver un restaurant halal ?,find_restaurant
+Où manger une pâtisserie marocaine ?,find_restaurant
+Where can I eat tonight?,find_restaurant
+I'm looking for a good restaurant,find_restaurant
+Any cheap food places nearby?,find_restaurant
+What's the best place for seafood?,find_restaurant
+Can you suggest a nice cafe?,find_restaurant
+I'm hungry where should I go,find_restaurant
+Recommend me a good restaurant please,find_restaurant
+Where can I get a drink tonight?,find_restaurant
+Which restaurant serves tajine?,find_restaurant
+I want a place for breakfast,find_restaurant
+Where can I have dinner with my family?,find_restaurant
+Do you know a good Italian restaurant?,find_restaurant
+What restaurant has the best reviews?,find_restaurant
+I'm looking for a cheap fast food place,find_restaurant
+Can you find me a halal restaurant?,find_restaurant
+Where can I try Moroccan pastries?,find_restaurant
+Je veux créer un circuit,create_circuit
+Peux-tu générer un itinéraire pour moi ?,create_circuit
+Organise-moi une journée de visite,create_circuit
+Je veux planifier mon voyage,create_circuit
+Crée un parcours selon mon budget,create_circuit
+Génère un itinéraire personnalisé,create_circuit
+J'aimerais un circuit adapté à mes préférences,create_circuit
+Peux-tu organiser mon trajet ?,create_circuit
+Fais-moi un programme de visite,create_circuit
+Je veux un circuit pour la journée,create_circuit
+Prépare-moi un itinéraire de trois arrêts,create_circuit
+Je veux visiter plusieurs endroits aujourd'hui,create_circuit
+Peux-tu planifier ma journée à Rabat ?,create_circuit
+Génère-moi un parcours touristique,create_circuit
+Crée un circuit avec un petit budget,create_circuit
+Je veux un trajet optimisé pour visiter la ville,create_circuit
+Aide-moi à organiser mon excursion,create_circuit
+Propose-moi un programme complet pour la journée,create_circuit
+Je veux enchaîner plusieurs visites,create_circuit
+Construis-moi un itinéraire de voyage,create_circuit
+I want to create a route,create_circuit
+Can you generate an itinerary for me?,create_circuit
+Plan my trip for today,create_circuit
+Create a circuit based on my budget,create_circuit
+Generate a personalized itinerary,create_circuit
+Can you organize my journey?,create_circuit
+Build me a day plan,create_circuit
+I need a custom route,create_circuit
+Prepare a three-stop itinerary for me,create_circuit
+I want to visit several places today,create_circuit
+Can you plan my day in Rabat?,create_circuit
+Generate a touristic route for me,create_circuit
+Create a circuit with a small budget,create_circuit
+I want an optimized route to explore the city,create_circuit
+Help me organize my excursion,create_circuit
+Suggest a full day plan for me,create_circuit
+I want to chain multiple visits together,create_circuit
+Build me a travel itinerary,create_circuit
+Quel temps fait-il aujourd'hui ?,ask_weather
+Va-t-il pleuvoir demain ?,ask_weather
+Quelle est la météo à Rabat ?,ask_weather
+Fait-il chaud dehors ?,ask_weather
+Quelle est la température actuelle ?,ask_weather
+Dois-je prendre un parapluie ?,ask_weather
+Comment est le temps cette semaine ?,ask_weather
+Y a-t-il du vent aujourd'hui ?,ask_weather
+Est-ce qu'il fait froid ce matin ?,ask_weather
+Quelle est la prévision météo pour demain ?,ask_weather
+Fera-t-il beau ce week-end ?,ask_weather
+Dois-je m'habiller chaudement aujourd'hui ?,ask_weather
+Quel temps fera-t-il ce soir ?,ask_weather
+Est-ce qu'il y a du soleil aujourd'hui ?,ask_weather
+What's the weather like today?,ask_weather
+Is it going to rain tomorrow?,ask_weather
+What's the temperature right now?,ask_weather
+Should I bring an umbrella?,ask_weather
+How's the weather this week?,ask_weather
+Is it hot outside?,ask_weather
+Is it windy today?,ask_weather
+Is it cold this morning?,ask_weather
+What's the forecast for tomorrow?,ask_weather
+Will it be sunny this weekend?,ask_weather
+Should I dress warmly today?,ask_weather
+What will the weather be like tonight?,ask_weather
+Is it sunny today?,ask_weather
+Bonjour,general
+"Salut, comment ça va ?",general
+Merci beaucoup,general
+Qui es-tu ?,general
+Que peux-tu faire ?,general
+Raconte-moi une blague,general
+Comment tu t'appelles ?,general
+Au revoir,general
+Peux-tu m'aider ?,general
+Bonsoir,general
+Comment vas-tu ?,general
+Merci pour ton aide,general
+Tu es sympa,general
+Quel est ton rôle ?,general
+Je ne comprends pas,general
+Peux-tu répéter s'il te plaît ?,general
+À plus tard,general
+Bonne journée,general
+Hello there,general
+"Hi, how are you?",general
+Thank you so much,general
+Who are you?,general
+What can you do?,general
+Tell me a joke,general
+Goodbye,general
+Can you help me?,general
+Good evening,general
+How are you doing?,general
+Thanks for your help,general
+You are nice,general
+What is your role?,general
+I don't understand,general
+Can you repeat that please?,general
+See you later,general
+Have a nice day,general
